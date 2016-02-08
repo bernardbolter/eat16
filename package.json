@@ -1,0 +1,31 @@
+{
+  "name": "smoothSimple",
+  "version": "0.0.1",
+  "description": "Basic starter theme for Company Smoothism development",
+  "main": "index.hmtl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bernard John Bolter IV",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-util": "~3.0.6",
+    "gulp-sass": "~2.0.4",
+    "gulp-sourcemaps": "~1.5.2",
+    "gulp-autoprefixer": "~2.3.1",
+    "gulp-concat": "~2.6.0",
+    "gulp-uglify": "~1.4.0",
+    "gulp-jade": "~1.1.0",
+    "gulp-svgstore": "~5.0.4",
+    "gulp-svgmin": "~1.2.0",
+    "gulp-imagemin": "~2.3.0",
+    "gulp-livereload": "~3.8.0",
+    "gulp-connect": "~2.2.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-clean": "~0.3.1",
+    "gulp-watch": "~4.3.5",
+    "gulp-file-include": "~0.13.7",
+    "gulp-minify-html": "~1.0.5"
+  }
+}
